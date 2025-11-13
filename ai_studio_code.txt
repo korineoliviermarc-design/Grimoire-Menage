@@ -1,0 +1,5 @@
+{
+  "name": "Cleaners: Les Recettes de Ménage",
+  "description": "An intuitive application listing all the cleaning recipes, tips, and essential products from the TV show 'Cleaners, les experts du ménage'. Find solutions for every surface and stain, classified by theme.",
+  "requestFramePermissions": []
+}
